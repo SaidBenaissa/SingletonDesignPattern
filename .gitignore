@@ -1,2 +1,7 @@
 # Project exclude paths
 /cmake-build-debug/
+/.clang-format
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/SingletonDesignPattern.iml
